@@ -22,4 +22,3 @@ class Control():
     self.tv=tv
   def get_tv(self,tv):
     return self.tv
-    
